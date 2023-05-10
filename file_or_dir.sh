@@ -13,4 +13,4 @@ do
   fi
 done
 
-echo "$object has not been found."  # The script has not found the enter object.
+echo "$object has not been found."  # The script has not found the entered object.
